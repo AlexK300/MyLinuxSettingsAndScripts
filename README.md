@@ -1,1 +1,1 @@
-# MyLinuxSettingsAndScripts
+# My linux settings and scripts
